@@ -1,0 +1,402 @@
+
+<!DOCTYPE HTML>
+<html>
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0">
+        <title>Help For Serious Family Problems | Private Online Community</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          ga('create', 'UA-53408641-1', 'auto');
+          ga('require', 'displayfeatures');
+          ga('send', 'pageview');
+        </script>
+    </head>
+
+    <body>
+        <div id="page_wrap" role="main">
+            <nav id="pri_nav">
+                <div id="logo_wrap">
+                    <img src="img/family-nation-logo.jpg" alt="FamilyNation's logo" />
+                </div>
+                <div class="logotype">FamilyNation</div>
+                <div id="social_top">
+                    <a href="https://twitter.com/1FamilyNation" target="_blank"><img src="img/follow-family-nation-twitter-OFF.png" class="imgSwap" alt="follow FamilyNation on Twitter" /></a>
+                    <!--<a href=""><img src="img/check-out-family-nation-facebook-OFF.png" class="imgSwap" alt="check out FamilyNation on Facebook" /></a>
+                    <a href=""><img src="img/check-out-family-nation-pinterest-OFF.png" class="imgSwap" alt="check out FamilyNation on Pinterest" /></a>
+                    <a href=""><img src="img/check-out-family-nation-google-plus-OFF.png" class="imgSwap" alt="check out FamilyNation on Google+" /></a>-->
+                </div><br class="clear">
+            </nav>
+            <div class="section">
+                    <div id="masthead_image">
+                        <img src="img/masthead-serious-family-issues-solution-3.jpg" alt="Dealing with serious family problems is difficult and complicated.
+                        Getting access to help and solutions shouldn't be." />
+                        <div id="masthead_message_wrapper">
+                            <h1>Dealing with serious family problems is difficult and complicated.
+                            Getting access to help and solutions shouldn't be.</h1>
+                        </div>
+                        <div id="masthead_sub_head">
+                            <h2>FamilyNation is the private online &amp; mobile network designed specifically for families who are dealing with serious family problems.</h2>
+                            <div id="masthead_share_buttons_wrapper">
+                                <a href="mailto:info@familynation.com" class="mainButton floatLeft">Contact</a>
+                                <!--<a href="http://" class="mainButton shareFacebook">Share this <img src="img/facebook-button-logo.png" alt="Share this on Facebook" id="mast_fb_share_logo" /></a>-->
+                            </div><br class="clear">
+                        </div>
+                    </div>
+            </div>
+            <div class="section" id="ph_scroll_down">
+                <span>SCROLL DOWN TO LEARN ABOUT OUR STORY OF HELPING FAMILIES &amp; COMMUNITIES BATTLE SERIOUS PROBLEMS...AND SAVE LIVES</span>
+            </div>
+            
+            <div class="section panel">
+                <article class="phPanelHeading">
+                    <div class="phPanelHeadingLeft">
+                        <h1>Let’s Face It: Whether We Choose to Admit It or Not, EVERY Family Has Problems.</h1>
+                        <p>At one time or another, virtually every family from over 120M households in the U.S. encounters some sort of issue that morphs into a serious problem…and most families typically encounter more than one or two serious problems over the span of time as a family.</p>
+                        <p>In far too many cases, lives are cut short due to the destructive nature of many of those problems. It’s devastating when families lose loved ones, especially when tragic outcomes could have been avoided.</p>
+                        <p>The ability of families to avert tragedy becomes impaired out of a sense of helplessness or isolation because in most cases, they don’t know where to turn for immediate and responsive help.</p>
+                    </div><br class="clear">
+                </article>
+                <div class="phImageMask"><img src="img/ph-serious-conflict-panel-1.jpg" alt="family dealing with serious issues" /></div>
+            </div><br class="clear">
+            <div class="section panel">
+                <div class="phImageMaskLeft"><img src="img/ph-no-single-destination-for-help-panel-2.jpg" alt="family dealing with serious issues" /></div>
+                <article class="phPanelHeadingRight">
+                    <h1>This Is A Big Problem Because Until Now, There’s Been No Destination or Space That’s Specifically Designed And Dedicated Especially For Families</h1>
+                    <p>Unless you have experience in dealing with a particular problem, or know of a professional or another family that does, it’s a struggle to find timely access to accurate information from a relevant and reliable source. <strong>Precious and valuable time is lost while searching for the proper resource or solution!</strong></p>
+                    <p>As a result, families must “hop-scotch” around the internet or spend valuable time making phone calls or rummage through email to find help. This causes delays. <strong>Delays cause loss of valuable time. Loss of valuable time may result in unintended but serious consequences, if not loss of life.</strong></p>
+                </article><br class="clear">
+            </div><br class="clear">
+            <div class="section panel">
+                <article class="phPanelHeading">
+                    <div class="phPanelHeadingLeft">
+                        <h1>Here’s Another Huge Problem: Traditional Social Networks Are a Non-event.</h1>
+                        <p>Traditional social networks are a non-event when it comes to helping resolve family problems -- they weren’t designed for this purpose.</p>
+                        <p>They are not designed to bring families together as a community to help one another and they aren’t places where professionals tend to gather to leverage their experience and know-how to help families overcome serious problems.</p>
+                        <p>They offer inadequate privacy and intrusion protection and there’s too much irrelevant “noise” or chatter in a cocktail lounge atmosphere, making them ineffective as viable alternatives for families to turn to for help.</p>
+                    </div>
+                </article>
+                <div class="phImageMask"><img src="img/ph-social-networks-arent-the-answer-panel-3.jpg" alt="family dealing with serious issues" /></div>
+            </div><br class="clear">
+            <div class="section panel">
+                <div class="phImageMaskLeft"><img src="img/ph-information-is-not-always-accurate-panel-4.jpg" alt="family dealing with serious issues" /></div>
+                <article class="phPanelHeadingRight">
+                    <h1>Wait, There’s Another Problem!</h1>
+                    <p>There’s no certainty that the information or help families receive from unknown sources is relevant to their situation and there are no assurances as to the efficacy, authenticity or effectiveness of solutions coming from those sources.</p>
+                </article><br class="clear">
+            </div><br class="clear">
+            <div class="section panel">
+                <article class="phPanelHeading">
+                    <div class="phPanelHeadingLeft">
+                        <h1>Ask Yourself: “What’s Important To Our Family?”</h1>
+                        <p>Learning about safe products for your kids… being aware of a nearby burglary… or notice of a neighborhood BBQ next weekend…</p>
+                        <p>If these things are important to you, then shouldn’t having information about solutions to serious problems be equally important, especially if those problems involve possible life and death circumstances?</p>
+                    </div>
+                </article>
+                <div class="phImageMask"><img src="img/ph-ask-yourself-whats-important.jpg" alt="family dealing with serious issues" /></div>
+            </div><br class="clear">
+            <div class="section panel">
+                <div class="phImageMaskLeft"><img src="img/ph-family-nation-helps-solve-family-problems-panel-5.jpg" alt="family dealing with serious issues" /></div>
+                <article class="phPanelHeadingRight">
+                    <h1>This Is Where FamilyNation Comes In.</h1>
+                    <p>FamilyNation makes it easy for families to join a community of professionals, partners and other families, (in an online or mobile application), to find information and resources to manage or resolve serious problems in a secure and trusted network.</p>
+                    <p>We provide timely access to relevant information and content that is managed and curated by experts and professionals in a network that maintains privacy and protection from unwanted intrusion or disruption.</p>
+                    <p>This is our purpose and our Mission…it is why we exist. It’s very disturbing to us that there are no online or mobile solutions that are designed or available specifically for families to rely on when they need immediate help. This frustration motivated us to act so we are introducing the first of its kind in the form of a secure, community-based network composed of professionals, partners and families that, together, help put an end to the difficulties and suffering that millions of families experience when they encounter serious traumas and problems.</p>
+                </article><br class="clear">
+            </div><br class="clear">
+            <div class="section panelDivider">
+                <div class="redBg coloredDivider"></div>
+                <div class="orangeBg coloredDivider"></div>
+                <div class="yellowBg coloredDivider"></div>
+                <div class="greenBg coloredDivider"></div>
+                <div class="blueBg coloredDivider"></div>
+                <div class="indigoBg coloredDivider"></div>
+                <div class="violetBg coloredDivider"></div>
+            </div>
+            <article>
+                <div class="col2">
+                    <h1>The Critical Role Of “Community” As Part Of The Solution To Serious Family Problems</h1>
+                    <img src="img/ph-community-builds-solutions.jpg" alt="Communities help build solutions to family problems" /></div>
+                <div class="col2">
+                    <p>Community-oriented relationships foster gatherings of families interacting and collaborating with one another towards a common goal. When families find solutions to their problems or challenges and then share the outcomes of those experiences with their community, the entire community benefits thanks to the timely action, reliance, resourcefulness and sense of urgency that thrives in that community in the name of helping other families who may be in distress. FamilyNation enables families to join our online and mobile communities to form relationships and align with professionals, partners and other families to share ideas, exchange information, discuss experiences and learn about resources that help to manage or resolve serious problems but in a secure and trusted network that protects members rights to privacy and prevents unwanted disruption or intrusion.</p>
+                </div>
+            </article>
+            <article class="section yellowBgPanel fnYellowBg">
+                <header>
+                    <h1>Types of Serious Family Problems We Help to Resolve</h1>
+                </header>
+                <div class="phMemberBenefitsWrap">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Bullying</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Learning Differences</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Anxiety / Depression / Suicide</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Emotional &amp; Physical Development Challenges</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Marriage / Relationship</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Veterans Resources &amp; Support</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>LGBT Transition Issues</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Health &amp; Wellness</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Domestic Violence</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Youth &amp; Gang violence</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Eating Disorders</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Career / Vocational</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Education</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Financial</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Day Care / Summer Camps / Piano Lessons</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>More...</p>
+                    </div><br class="clear">
+                </div>
+            </article>
+            <section class="section textCenter">
+                <h3 class="panelShortH3">For Instance, Let’s Take A Look At The Problem Of Bullying, A Subject We Will Be Addressing In Our Initial Introduction</h3>
+                <h1 class="panelShort">The U.S. Department of Justice Bullying Statistics Show That:</h1>
+                <div id="bullying_statistics_infographic">
+                    <img src="img/us-dept-justice-bullying-statistics.png" alt="" />
+                </div>
+                <!--<div class="panelShort fnYellowBg">
+                    <h2>From application and service perspectives, the lives of children and families are being affected in negative ways due to destructive and disruptive problems and, as a result, people are dying.</h2>
+                </div>-->
+            </section>
+            <article class="section yellowBgPanel fnYellowBg">
+                <header>
+                    <h1>Ok, How Does This Work?</h1>
+                </header>
+                <div class="phMemberBenefitsWrap">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Register</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Select: “We Need Help Now” for timely response to your call for help</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Ask An Expert</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Contact / Communicate With A Professional</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>View / Join / Create A Group</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>View / Join / Create A Discussion</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>“See Something, Say Something” (Anonymous crime prevention feature)</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Subscribe To News Feed(s)</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Ask The Community A Question</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Ask The Community For Input/Feedback</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Be Alerted/Notified When An Issue/Topic Is Mentioned</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>View/Create/Subscribe to Podcasts &amp; Webinars</p>
+                    </div><br class="clear">
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Receive Discounts &amp; Promotions To Family-oriented Goods &amp; Services
+                        </p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Earn Rewards Based on Participation &amp; Contribution</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Gaming Component For Chores, Education, Socialization and more</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="whiteBg phCircle"></div>
+                        <p>Private Social Media Hub For Access to Member-Generated Help &amp; Information</p>
+                    </div>
+                    <div class="phMemberBenefitsCell">
+                        <div class="fnGreenBg phCircle"></div>
+                        <p>Post Helpful Information That May Help Other Families</p>
+                    </div>
+                    <br class="clear">
+                </div>
+            </article>
+            <article class="section greenBgPanel fnGreenBg">
+                <header>
+                    <h3>Why Is This Important?</h3>
+                    <h1>What Makes It Right for FamilyNation to Enter This Space at This Time?</h1>
+                </header>
+                <div class="phWhyFNWrap">
+                    <div class="phWhyFnRowCell">First-hand, personal experiences of FamilyNation team with bullying, learning disabilities/differences</div>
+                    <div class="phWhyFnRowCell">Seasoned and experienced professionals who are aligned with FamilyNation to lead and moderate content, information and resources</div>
+                    <div class="phWhyFnRowCell">Situational fluency with family problems, solutions and resources by team, professionals and partners</div><br class="clear">
+                </div>
+                <div class="phWhyFNWrap">
+                    <div class="phWhyFnRowCell2col">Understanding of unit economics by team in order to sustain and scale the business (customer activation, acquisition, conversion, retention, etc.)</div>
+                    <div class="phWhyFnRowCell2col">Long-term vision to bring company into original content production and media distribution channels. <br /><strong>We will save lives!</strong></div><br class="clear">
+                </div>
+            </article>
+            <article class="section yellowBgPanel fnYellowBg">
+                <header>
+                    <h3>Ok. So What? Who Cares?</h3>
+                    <h1>Why FamilyNation?</h1>
+                    <p>From a business perspective, understand that while social networks have their value and place in our lives, FamilyNation provides components and channels that traditional social networks cannot such as a tailored design, enhanced access to information and resources with professionally curated material, the formation of groups and discussions about specific issues and topics and more options for management and control of access, privacy and security. This matrix illustrates these unique and comparative differences:</p>
+                </header>
+                <div class="yellowBgPanelWrapper">
+                    <div id="ph_compare_left">
+                        <img src="img/ph-open-social-networks-logos.png" alt="Facebook, Twitter, LinkedIn, Google+ logos" />
+                        <h1>Open Social Networks</h1>
+                        <div class="ph_compare_table">
+                            <div id="ph_compare_left_row_1">
+                                <p>Connections: Driven by relationships.</p>
+                            </div>
+                            <div id="ph_compare_left_row_2">
+                                <p>Design and Content: Standardized user experience: one size fits all. Noisy user-generated activity streams.</p>
+                            </div>
+                            <div id="ph_compare_left_row_3">
+                                <p>Profiles: User-disclosed information.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="ph_compare_right">
+                        <img src="img/ph-compare-owned-community-logo.png" alt="FamilyNation is an owned online community" />
+                        <h1>Owned Online Community</h1>
+                        <div class="ph_compare_table">
+                            <div id="ph_compare_right_row_1">
+                                <p>Connections: Driven by family needs and interests for solutions to family problems.</p>
+                            </div>
+                            <div id="ph_compare_right_row_2">
+                                <p>Design and Content: Engineered user experience with content activity streams and channels specific to distressed family circumstances.</p>
+                            </div>
+                            <div id="ph_compare_right_row_3">
+                                <p>Profiles: Combination of sourced and user-disclosed information.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div><br class="clear">
+            </article>
+            <article class="section whiteBgPanel">
+                <header>
+                    <h1>So, If Any of These Images Look or Feel Familiar Then You May Understand And Appreciate Why The Time For FamilyNation Is Now.</h1>
+                </header>
+                <img src="img/ph-what-bullying-looks-like.jpg" class="img100Wide" alt="Images of what bullying looks like in real life" />
+            </article>
+            <article class="section whiteBgPanel">
+                <header>
+                    <h1>You Have Just Learned What FamilyNation Is All About and Why We Exist.</h1>
+                </header>
+                <p>Thank you for visiting our website. As a startup, we are in the process of developing a "minimally viable product" (MVP), which will focus solely on the subject of bullying. While FamilyNation seeks to provide access for solutions to a broad range of problems, we’ve chosen <strong>bullying</strong> as our entry point due to its seriousness and destructive impact across virtually every community throughout the U.S.</p>
+                <p>With the MVP, we intend to demonstrate our capacities in managing specific unit economics, (i.e., <strong>activation, acquisition, conversion, retention, referral, etc.</strong>), that play substantial roles in the suitability, relevance and sustainability of our business model. Our comprehension of these metrics that require constant nurturing and optimization is essential in order for us to provide better user experiences with more meaningful content, resources, and benefits. These components support the foundations for market fit and product fit that we must manage and maintain in order to scale the business. Successful management of our unit economics will better prepare us to support what families require of us as we work to help them so we take this part of our business especially seriously.</p>
+                <p>We trust that we have communicated our story effectively and in a meaningful way so that you identify with the importance and urgency of what we’re doing and why we're doing it. We encourage you to stay tuned by following us here and on <a href="#">Twitter (@1FamilyNation)</a>, in anticipation of our “MVP” release. <strong>We welcome and embrace any feedback, questions or ideas you may have</strong> – they will help us become a better company. That’s kind of important to us, too, so we take your input very seriously, as we should.</p>
+            </article>
+            <div class="section panelDivider">
+                <div class="redBg coloredDivider"></div>
+                <div class="orangeBg coloredDivider"></div>
+                <div class="yellowBg coloredDivider"></div>
+                <div class="greenBg coloredDivider"></div>
+                <div class="blueBg coloredDivider"></div>
+                <div class="indigoBg coloredDivider"></div>
+                <div class="violetBg coloredDivider"></div>
+            </div>
+            <div class="section">
+                <div class="phImageMaskLeft"><img src="img/ph-bullying-looks-like-this.jpg" alt="family dealing with serious issues" /></div>
+                <article class="phPanelHeadingRight">
+                    <h1>Let's Stop The Madness</h1>
+                    <p>In summary, families, whether single or nuclear, are affected by many destructive and undermining problems and, in many cases, people are needlessly dying.</p>
+                    <p>FamilyNation seeks to end this madness with the introduction of a dedicated and specific destination for families to turn to for help. We invite and encourage you and your family to join us, whether it’s due to a serious problem that is confronting your family or to lend a helping hand to another family who may be facing a similar situation that you may have previously experienced.</p>
+                    <p>Together, communities of families, working beside professionals and partners, can change the way families confront serious issues and how they view their place in <strong>a world that’s free from serious traumas and problem</strong>s that have debilitating effects on them.</p>
+                    <p>As we often say, <strong>“When there’s an opportunity to help others, how can we not?”</strong></p>
+                </article><br class="clear">
+            </div><br class="clear">
+            <footer>
+                <div id="ph_foot_social_links">
+                    <a href="https://twitter.com/1FamilyNation" target="_blank"><img src="img/ph-footer-family-nation-twitter-OFF.png" class="imgSwap" alt="FamilyNation on Twitter" /></a>
+                    <!--<img src="img/ph-footer-family-nation-facebook-OFF.png" class="imgSwap" alt="FamilyNation on Facebook" />-->
+                </div>
+                <hr />
+                <div class="phFooterRow">
+                    <a href="#page_wrap">Top</a>
+                    <a href="mailto:info@familynation.com?Subject=Website%20inquiry">Contact Us</a>
+                </div>
+                <div class="phFooterRow">
+                    <p>&copy;2014 FamilyNation. All rights reserved.</p>
+                </div>
+            </footer>
+<!--            <p id="js_warning">Please turn on Javascript when using this site.</p>-->
+        </div><!--END PAGE WRAPPER -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+        <script src="js/common.js"></script>
+        <script src="js/plugins.js"></script>
+    </body>
+    
+</html>
